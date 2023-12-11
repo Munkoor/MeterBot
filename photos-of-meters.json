@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "photos-of-meters",
+  "private_key_id": "fbfd5601d27b283ddd50c4d5fc1d91f8d1f1babe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxSb6jYcXD6JaM\n2bNA9RQobdJ31hNqCL1Dg0Ve+45eqWtnTt+rnOGSsnNLRZhePYxM2Pu8McaFD7D3\n+Zr+BOoK8ifwSRloAdMutnM0n6SiQ1oF7iT8NtYDNDcEvhlR7T/cUgfAH2q+t7S3\nQTgF0LNj5jbN7Nif3UvBT+Cp2zPwxOy/sQPyHvOux1nMSe6ck3WY60y8qYeUui5z\n4WKnWmCCD7aJwfCWPWcJwUh/bigRF5hueaagdfyAsDDkrYwRQPMPeTVyi/PDwA4Q\nOa1k9/NXWud8tg93j+iA7E5LTyiYzaMSViQ7RM5ecM1aXnW+hY1RYSTpf7m+GLSQ\n+vnc92WrAgMBAAECggEAIw4IVmjqQEr4ncAcDA+JnVbdw1k+fHxe4/8MU/QcmgYY\n2RQE8PtztNx5JJyNvLCh0b4jxHn5HW1VWiruJSUWm/R2xjHGBsU5myZzUCfy1yzH\nG54TjRVQqtCDwnnOKt9k/azwoGH16uELKCMKr0eteObX1k7rJG0O4hnnu94+fnA1\ndfv5RpmSk1Is+GcAS3YZaX5higbOSnXAsRUcWaJmvJPE+TjpxZs3cnDXLSIMWJ+q\n5co8+O1hZKxojBqkpf9QxhRaEqUag0w//CsQaBCuTWdjGJXz6SvslmtRdfE6pbR1\nspsWIwBGr3srwB1rNnkVIFvX89xgAIhESBmGwUtW9QKBgQDZOy1PvHAPZJRcvQRl\n+Rt/PTvN8mZ/pGQEHkg4yHOle2PhlXYaBAzfQW5o2Epq58JxIaVu0YRqZbsbGBr/\netraIe86/Xv4PCSkhwvbQOuKMGp7CNg2xGSSil1gmy5mLIPjnATWqNCDPCtIEPDk\ndIDFeOQjxmHEm8g5ptSpMBgmjQKBgQDQ7adjCxVttddbeppmIGxl56+iBo7sxRng\n/GWVZ3wnI0RaKjiEfLIqArH2vNESrdduDgip0DiEDFywFpyhGcXTmTXvnJReu7dw\nhWAHFSk8iG2dCp5uiru5AoCWpAOg3qtpFyP1qzgnihvP/vn9/D7tuk18kxgInVr7\n2clAHStrFwKBgG1X2Cr2kwFsgzFbA0fA6BJX5C56ARXmzWE1TO0oGO4G+fOmo9fc\nig4mhUjI9kxxc/I2GWt6kshrhI7Sx2QplteNlTmANlJxE5CtWU53kxfv3uknPo3y\ntRz+AJqMAgL0DT8YXWcfejVUqASSYm7cJaVAgLVxOe0Y7OP4EbtHtiBRAoGADSM0\niFTVFx39GcJ+3Pci+dF0yNJywE6wjuYwGRH1y5w7GxRWk3Yn2d5rhGFhIDSQPFpj\njxIJy7vfRC9X0AWH3ANhUdzds4tIQKoSXL+m5SiLA/n79mWA4mRW46ISnFYEH0qW\nN0d583qKvyyAWck3x8kUQEYbl8cVRoruTbrH1ScCgYEAmn5K3TeRgMwkLHEWNWyz\nnfvjWHkkxANq4nCM06veSeo1h8Kxjl4DCSMp8xZv90RQ6KZkeEErEuaC+TC3C9Ml\nimlzQ4ySZ9pYvZjmrNpRnVMLBUwbXdNyuPynr+8bqw/hCW883GkpbG5XKq3OlTT9\nPcg6SnL1dGuPjMab6mdjNns=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-task@photos-of-meters.iam.gserviceaccount.com",
+  "client_id": "106682009838345402355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-task%40photos-of-meters.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
